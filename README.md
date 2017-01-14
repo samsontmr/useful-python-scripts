@@ -1,2 +1,2 @@
-# Useful Python Scripts
-Python scripts I've written to automate boring stuff :P 
+# About this Repository
+A collection of Python scripts I've written to automate boring stuff :P 
